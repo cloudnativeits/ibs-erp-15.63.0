@@ -1,10 +1,10 @@
 app_name = "erpnext"
-app_title = "ERPNext"
-app_publisher = "Frappe Technologies Pvt. Ltd."
-app_description = """ERP made simple"""
+app_title = "IBS-ERP"
+app_publisher = "Cloud Native IT Solution LLC"
+app_description = """INNOVATION | EXPERTISE | SUSTAINABILITY"""
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
-app_email = "hello@frappe.io"
+app_email = "info@cnitsolution.com"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/frappe/erpnext"
 app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
@@ -12,9 +12,9 @@ app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
 
 add_to_apps_screen = [
 	{
-		"name": "erpnext",
+		"name": "IBS-ERP",
 		"logo": "/assets/erpnext/images/erpnext-logo-blue.png",
-		"title": "ERPNext",
+		"title": "IBS-ERP",
 		"route": "/app/home",
 		"has_permission": "erpnext.check_app_permission",
 	}
